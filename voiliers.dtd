@@ -1,0 +1,20 @@
+<!ELEMENT voiliers (classe*)>
+
+<!ELEMENT classe (voilier*)>
+    <!ATTLIST classe
+    classe CDATA #REQUIRED>
+
+<!ELEMENT voilier (nom, photo, equipage)>
+
+<!ELEMENT nom (#PCDATA)>
+
+<!ELEMENT equipage (skipper*)>
+    <!ATTLIST skipper
+    pays CDATA #REQUIRED
+    drapeau CDATA #REQUIRED
+    >
+
+<!ELEMENT photo EMPTY>
+    <!ATTLIST photo adresse CDATA #REQUIRED>
+
+<!ELEMENT skipper (#PCDATA)>

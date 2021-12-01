@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="application/xml" href="voiliers.xsl"?>
+
+<!DOCTYPE voiliers SYSTEM "voiliers.dtd"
+    [<!ENTITY transat "Route du cafe - Transat Jacques Vabre">
+<!ENTITY photo "drapeaux/">
+    ]
+>
+    
+<voiliers>
+    <classe classe="Class 40">
+        <voilier>
+            <nom>AVANADE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/26/12610/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Maxime Cauwe</skipper>
+                <skipper pays="France" drapeau="fr.png">Jules Bonnier</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>BANQUE DU LEMAN</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12221/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="Suisse" drapeau="ch.png">Valentin Gautier</skipper>
+                <skipper pays="Suisse" drapeau="ch.png">Simon Koster</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>E.LECLERC VILLE-LA-GRAND</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12218/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Antoine Magré</skipper>
+                <skipper pays="France" drapeau="fr.png">Olivier Magré</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>EDENRED</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12440/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Emmanuel Le Roch</skipper>
+                <skipper pays="France" drapeau="fr.png">Pierre Quiroga</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>CLOWN-HOP</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12264/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Renaud Courbon</skipper>
+                <skipper pays="France" drapeau="fr.png">Guillaume Pirouelle</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>CRÉDIT MUTUEL</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12231/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Ian Lipinski</skipper>
+                <skipper pays="France" drapeau="fr.png">Julien Pulvé</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>EMILE HENRY - HAPPYVORE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/28/12848/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Nicolas D'Estais</skipper>
+                <skipper pays="France" drapeau="fr.png">Erwan Le Draoulec</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>FREE DOM</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/26/12615/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Thibaut Lefevere</skipper>
+                <skipper pays="France" drapeau="fr.png">Thomas Bulcke</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>CROATIA FULL OF LIFE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12312/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="Croatie" drapeau="hr.png">Ivica Kostelic</skipper>
+                <skipper pays="France" drapeau="fr.png">Calliste Antoine</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>FULLSAVE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/28/12828/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Jean-Pierre Balmes</skipper>
+                <skipper pays="France" drapeau="fr.png">Laurent Camprubi</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>ENTRAIDE MARINE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12445/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Nicolas Lemarchand</skipper>
+                <skipper pays="France" drapeau="fr.png">Thimoté Polet</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>GUIDI</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12468/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Charles-Louis Mourruau</skipper>
+                <skipper pays="Italie" drapeau="it.png">Andrea Fantini</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>GROUP G2C - LA MARTINIQUE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/26/12640/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Jean Edouard Criquioche</skipper>
+                <skipper pays="France" drapeau="fr.png">Eric Baray</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>CROSSCALL</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12491/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Aurélien Ducroz</skipper>
+                <skipper pays="France" drapeau="fr.png">David Sineau</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>HBF - REFOREST'ACTION</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/27/12795/image-c-480-180.png"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Kito de Pavant</skipper>
+                <skipper pays="France" drapeau="fr.png">Gwen Gbick</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>ENTREPRENEURS POUR LA PLANÈTE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/21/12191/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Sébastien Audigane</skipper>
+                <skipper pays="France" drapeau="fr.png">François Jambou</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>INTER INVEST</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/28/12809/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Matthieu Perraut</skipper>
+                <skipper pays="France" drapeau="fr.png">William Mathelin Moreaux</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>EQUIPE VOILE PARKINSON</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12370/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Florian Gueguen</skipper>
+                <skipper pays="France" drapeau="fr.png">Raphael Auffret</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>EVERIAL</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12401/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Stan Thuret</skipper>
+                <skipper pays="France" drapeau="fr.png">Mathieu Crepel</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>Exploring Tech for good</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12254/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Victor Jost</skipper>
+                <skipper pays="France" drapeau="fr.png">Enguerrand Granoux</skipper>
+            </equipage>
+        </voilier>
+    </classe>
+    <classe classe="Ocean Fifty">
+        <voilier>
+            <nom>ARKEMA 4</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12246/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Quentin Vlamynck</skipper>
+                <skipper pays="France" drapeau="fr.png">Lalou Roucayrol</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>KOESIO</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/26/12633/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Erwan Le Roux</skipper>
+                <skipper pays="France" drapeau="fr.png">Xavier Macaire</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>GROUPE GCA - 1001 SOURIRES</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12204/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Gilles Lamiré</skipper>
+                <skipper pays="France" drapeau="fr.png">Yvan Bourgnon</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>LES P'TITS DOUDOUS</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/28/12878/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Armel Tripon</skipper>
+                <skipper pays="France" drapeau="fr.png">Benoit Marie</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>LEYTON</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12359/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="Royaume-Uni" drapeau="uk.png">Sam Goodchild</skipper>
+                <skipper pays="France" drapeau="fr.png">Aymeric Chappellier</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>PRIMONIAL</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12255/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Sébastien Rogues</skipper>
+                <skipper pays="France" drapeau="fr.png">Matthieu Souben</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>SOLIDAIRE EN PELOTON</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12207/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Thibaut Vauchel Camus</skipper>
+                <skipper pays="France" drapeau="fr.png">Frédéric Duthil</skipper>
+            </equipage>
+        </voilier>
+    </classe>
+    <classe classe="Imoca">
+        <voilier>
+            <nom>COMPAGNIE DU LIT / JILITI</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12238/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Clément Giraud</skipper>
+                <skipper pays="France" drapeau="fr.png">Erik Nigon</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>FORTINET - BEST WESTERN</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12523/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Romain Attanasio</skipper>
+                <skipper pays="France" drapeau="fr.png">Sébastien Marsset</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>GROUPE APICIL</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12525/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Damien Seguin</skipper>
+                <skipper pays="France" drapeau="fr.png">Benjamin Dutreux</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>11TH HOUR RACING TEAM - ALAKA'I</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12417/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="Suisse" drapeau="ch.png">Justine Mettraux</skipper>
+                <skipper pays="Royaume-Uni" drapeau="uk.png">Simon Fisher</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>ARKEA PAPREC</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12361/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Sébastien Simon</skipper>
+                <skipper pays="France" drapeau="fr.png">Yann Eliès</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>CORUM L'EPARGNE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12520/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Nicolas Troussel</skipper>
+                <skipper pays="France" drapeau="fr.png">Sébastien Josse</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>BUREAU VALLÉE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12420/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Louis Burton</skipper>
+                <skipper pays="France" drapeau="fr.png">Davy Beaudart</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>GROUPE SETIN-4MYPLANET</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12335/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Manuel Cousin</skipper>
+                <skipper pays="France" drapeau="fr.png">Alexia Barrier</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>EBAC</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12594/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Antoine Cornic</skipper>
+                <skipper pays="France" drapeau="fr.png">Jean-Charles Luro</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>INITIATIVES-COEUR</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12526/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="Royaume-Uni" drapeau="uk.png">Sam Davies</skipper>
+                <skipper pays="France" drapeau="fr.png">Nicolas Lunven</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>LES LABORATOIRES DE BIARRITZ-NO LIIT 4 US</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/27/12792/image-c-480-180.png"/>
+            <equipage>
+                <skipper pays="Belgique" drapeau="be.png">Denis Van Weynbergh</skipper>
+                <skipper pays="France" drapeau="fr.png">Tanguy Le Turquais</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>11TH HOUR RACING TEAM - MALAMA</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/26/12629/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="États-Unis" drapeau="us.png">Charlie Enright</skipper>
+                <skipper pays="France" drapeau="fr.png">Pascal Bidégorry</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>LINKEDOUT</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12529/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Thomas Ruyant</skipper>
+                <skipper pays="France" drapeau="fr.png">Morgan Lagravière</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>APIVIA</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12375/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Charlie Dalin</skipper>
+                <skipper pays="France" drapeau="fr.png">Paul Meilhat</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>MACSF</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12531/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="Allemagne" drapeau="de.png">Isabelle Joschke</skipper>
+                <skipper pays="France" drapeau="fr.png">Fabien Delahaye</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>CHARAL</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12518/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Jérémie Beyou</skipper>
+                <skipper pays="France" drapeau="fr.png">Christopher Pratt</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>KOSTUM-LANTANA PAYSAGE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/26/12627/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Louis Duc</skipper>
+                <skipper pays="France" drapeau="fr.png">Marie Tabarly</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>LA MIE CÂLINE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12528/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Arnaud Boissières</skipper>
+                <skipper pays="France" drapeau="fr.png">Rodolphe Sepho</skipper>
+            </equipage>
+        </voilier>
+    </classe>
+    <classe classe="Ultime">
+        <voilier>
+            <nom>ACTUAL ULTIM 3</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/24/12478/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Yves Le Blevec</skipper>
+                <skipper pays="France" drapeau="fr.png">Anthony Marchand</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>BANQUE POPULAIRE XI</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12267/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Armel Le Cléac'h</skipper>
+                <skipper pays="France" drapeau="fr.png">Kevin Escoffier</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>MAXI EDMOND DE ROTHSCHILD</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/22/12268/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Franck Cammas</skipper>
+                <skipper pays="France" drapeau="fr.png">Charles Caudrelier</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>SODEBO ULTIM 3</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/23/12336/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">Thomas Coville</skipper>
+                <skipper pays="France" drapeau="fr.png">Thomas Rouxel</skipper>
+            </equipage>
+        </voilier>
+        <voilier>
+            <nom>SVR - LAZARTIGUE</nom>
+            <photo adresse="https://www.transatjacquesvabre.org/medias/01/25/12597/image-c-480-180.jpg"/>
+            <equipage>
+                <skipper pays="France" drapeau="fr.png">François Gabart</skipper>
+                <skipper pays="France" drapeau="fr.png">Tom Laperche</skipper>
+            </equipage>
+        </voilier>
+    </classe>
+</voiliers>
